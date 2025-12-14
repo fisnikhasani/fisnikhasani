@@ -3,6 +3,7 @@
 
 **Areas of Interest**
 - Artificial Intelligence
+- Reverse Engineering
 - Game Engine Engineering
 - Real-time Graphics Programming
 - Retro Console Game Development
