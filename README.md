@@ -6,7 +6,6 @@
 - Reverse Engineering
 - Computer Architecture
 - Game Engine Engineering
-- Mobile Application Development
 - Real-time Graphics Programming
 - Retro Console Game Development
 - Compilers and Programming Language Construction
